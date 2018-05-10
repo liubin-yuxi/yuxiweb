@@ -1,0 +1,39 @@
+
+<svg width="169px" height="34px" viewBox="0 0 169 34" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="0 0 27.9348837 0 27.9348837 31.32 0 31.32"></polygon>
+        <polygon id="path-3" points="0 0 27.9348837 0 27.9348837 31.32 0 31.32"></polygon>
+    </defs>
+    <g id="网页" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="官网" transform="translate(-615.000000, -89.000000)">
+            <g id="Group" transform="translate(618.000000, 81.000000)">
+                <g id="Group-39">
+                    <path d="M0,8.1 C0,14.3865427 5.05085274,19.4827925 11.2813953,19.4827925 C17.511938,19.4827925 22.5627907,14.3865427 22.5627907,8.1" id="Oval-13-Copy" stroke="#FFFFFF" stroke-width="6.048"></path>
+                    <path d="M0,24.84 C0,31.1265427 5.05085274,36.2227925 11.2813953,36.2227925 C17.511938,36.2227925 22.5627907,31.1265427 22.5627907,24.84" id="Oval-13-Copy-4" stroke="#FFFFFF" stroke-width="6.048"></path>
+                    <g id="Path-2-Copy" transform="translate(44.155814, 23.850000) scale(-1, 1) translate(-44.155814, -23.850000) translate(29.755814, 8.100000)">
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <g id="Mask"></g>
+                        <path d="M16.5116908,17.0747001 L12.6213168,12.5512885 L30.1570757,-7.83787047 L34.9521802,-4.36640625 L16.5116908,17.0747001 Z M12.6213168,21.5981116 L-1.0744186,37.5224024 L-5.8695231,34.0509382 L8.73094279,17.0747001 L12.6213168,21.5981116 Z" id="Combined-Shape" fill="#FFFFFF" fill-rule="nonzero" mask="url(#mask-2)"></path>
+                    </g>
+                    <g id="Path-2" transform="translate(27.934884, 0.000000)"></g>
+                    <g id="Path-2-Copy-2" transform="translate(30.620930, 8.100000)">
+                        <mask id="mask-4" fill="white">
+                            <use xlink:href="#path-3"></use>
+                        </mask>
+                        <g id="Mask"></g>
+                        <polygon id="Path-2" fill="#FFFFFF" fill-rule="nonzero" mask="url(#mask-4)" points="30.1570757 -7.83787047 34.9521802 -4.36640625 -1.0744186 37.5224024 -5.8695231 34.0509382"></polygon>
+                    </g>
+                </g>
+                <text id="YUXI-SOFTWARE" font-family=".AppleSystemUIFont" font-size="17.82" font-weight="normal" line-spacing="18.36" letter-spacing="0.755999976" fill="#FFFFFF">
+                    <tspan x="67.5" y="22.4">YUXI </tspan>
+                    <tspan x="67.5" y="40.76">SOFTWAR</tspan>
+                    <tspan x="156.331951" y="40.76">E</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>

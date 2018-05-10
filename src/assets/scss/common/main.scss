@@ -1,0 +1,47 @@
+@import "./_variables.scss";
+
+body {
+     background-color: $bodyBg;
+     -webkit-font-smoothing: antialiased;
+     font: 12px/1.25 PingFangSC-Regular,"Helvetica Neue", "Helvetica","Hiragino Sans GB","Microsoft YaHei", "WenQuanYi Micro Hei",Arial, sans-serif;
+     color:#646464;
+}
+
+a{
+  cursor: pointer;
+}
+
+.text-right{
+  text-align: right!important;
+}
+.text-left{
+  text-align: left!important;
+}
+.text-center{
+  text-align: center!important;
+}
+.bold{
+  font-weight: bold!important;
+}
+
+.hand{
+  cursor: pointer;
+}
+
+.red-font{
+  color:#c54736!important;
+}
+.fl{
+  float: left!important;
+}
+.fr{
+  float: right!important;
+}
+.margin-right-15{
+  margin-right: 15px;
+}
+
+.flex-row{
+  display: flex;
+  align-items: center;
+}
