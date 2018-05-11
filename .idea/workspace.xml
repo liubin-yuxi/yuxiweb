@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="01bfbff8-7271-4819-bccb-7b689e51287a" name="Default" comment="" />
+    <list default="true" id="01bfbff8-7271-4819-bccb-7b689e51287a" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/test" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -243,6 +246,11 @@
               <item name="YXWebsite" type="b2602c69:ProjectViewProjectNode" />
               <item name="YXWebsite" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="YXWebsite" type="b2602c69:ProjectViewProjectNode" />
+              <item name="YXWebsite" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -306,12 +314,12 @@
       <workItem from="1525325347177" duration="4790000" />
       <workItem from="1525399281579" duration="1137000" />
       <workItem from="1525657430391" duration="331000" />
-      <workItem from="1525791376977" duration="15332000" />
+      <workItem from="1525791376977" duration="15697000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="37660000" />
+    <option name="totallyTimeSpent" value="38025000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="981" extended-state="6" />
