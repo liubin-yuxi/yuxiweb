@@ -2,8 +2,8 @@
 
     <div>
         <div class="banner">
-            <img src="../assets/imgs/banner.png" class="img-responsive">
-            <img src="../assets/imgs/logo.png" class="logo ">
+            <img :src="COSUrl+'banner.png'" class="img-responsive">
+            <img :src="COSUrl+'logo.png'" class="logo ">
             <div class="instruction ">
                 <h1>
                     一家专门做SAAS系统定制化开发的公司
@@ -21,21 +21,21 @@
                         <h2 class="">主营业务</h2>
                     </div>
                     <div class=" col-sm-4 col-md-4">
-                        <img src="../assets/imgs/wx.png" class="img-responsive">
+                        <img :src="COSUrl+'wx.png'" class="img-responsive">
                         <div class="container-fluid shadow">
                             <h6 class="text-margin">微信小程序、微信公众号开发</h6>
                             <p class="text-margin">微信小程序、微信公众号开发</p>
                         </div>
                     </div>
                     <div class="  col-sm-4 col-md-4">
-                        <img src="../assets/imgs/app.png" class="img-responsive">
+                        <img :src="COSUrl+'app.png'" class="img-responsive">
                         <div class="container-fluid shadow">
                             <h6 class="text-margin">APP</h6>
                             <p class="text-margin">ios&android应用开发</p>
                         </div>
                     </div>
                     <div class=" col-sm-4 col-md-4">
-                        <img src="../assets/imgs/cloud.png" class="img-responsive">
+                        <img :src="COSUrl+'cloud.png'" class="img-responsive">
                         <div class="container-fluid shadow">
                             <h6 class="text-margin">政府、企业、商户传统业务上云</h6>
                             <p class="text-margin">政府、企业、商户传统业务上云</p>
@@ -44,21 +44,21 @@
                 </div>
                 <div class="row  row-margin-top-15">
                     <div class=" col-sm-4 col-md-4 ">
-                        <img src="../assets/imgs/growthhacker.png" class="img-responsive">
+                        <img :src="COSUrl+'growthhacker.png'" class="img-responsive">
                         <div class="container-fluid shadow">
                             <h6 class="text-margin">企业增长黑客业务咨询</h6>
                             <p class="text-margin">企业增长黑客业务咨询</p>
                         </div>
                     </div>
                     <div class=" col-sm-4 col-md-4">
-                        <img src="../assets/imgs/saas.png" class="img-responsive">
+                        <img :src="COSUrl+'saas.png'" class="img-responsive">
                         <div class="container-fluid shadow">
                             <h6 class="text-margin">大型SAAS系统研发</h6>
                             <p class="text-margin">完全创新的软件应用模式</p>
                         </div>
                     </div>
                     <div class=" col-sm-4 col-md-4">
-                        <img src="../assets/imgs/consultant.png" class="img-responsive">
+                        <img :src="COSUrl+'consultant.png'" class="img-responsive">
                         <div class="container-fluid shadow">
                             <h6 class="text-margin">泛互联网业务咨询</h6>
                             <p class="text-margin">泛互联网业务咨询</p>
@@ -71,21 +71,21 @@
                         <h2 class="">案例展示</h2>
                     </div>
                     <div class=" col-sm-4 col-md-4">
-                        <img src="../assets/imgs/hippo.png" class="img-responsive">
+                        <img :src="COSUrl+'hippo.png'" class="img-responsive">
                         <div class="container-fluid shadow">
                             <h6 class="text-margin">河马旅居指南</h6>
                             <p class="text-margin">旅行，换个城市生活！</p>
                         </div>
                     </div>
                     <div class=" col-sm-4 col-md-4">
-                        <img src="../assets/imgs/noah.png" class="img-responsive">
+                        <img :src="COSUrl+'noah.png'" class="img-responsive">
                         <div class="container-fluid shadow">
                             <h6 class="text-margin">诺亚财富</h6>
                             <p class="text-margin">您的私人财富体验专家</p>
                         </div>
                     </div>
                     <div class=" col-sm-4 col-md-4">
-                        <img src="../assets/imgs/PGAlumniAssociation.png" class="img-responsive">
+                        <img :src="COSUrl+'PGAlumniAssociation.png'" class="img-responsive">
                         <div class="container-fluid shadow">
                             <h6 class="text-margin">保洁校友会</h6>
                             <p class="text-margin">保洁校友会</p>
@@ -100,34 +100,34 @@
                         <h2 class="">为什么选择我们</h2>
                     </div>
                     <div class=" col-sm-4 col-md-4 text-center">
-                        <img src="../assets/imgs/reliable.png" class="img-circle center-block">
+                        <img :src="COSUrl+'reliable.png'" class="img-circle center-block">
                         <h6 class="text-center text-margin">稳定可靠</h6>
                         <p class="text-margin">为客户提供99.99%可靠的在线应用服务</p>
                     </div>
                     <div class=" col-sm-4 col-md-4 text-center">
-                        <img src="../assets/imgs/professional.png" class="img-circle center-block">
+                        <img :src="COSUrl+'professional.png'" class="img-circle center-block">
                         <h6 class="text-center text-margin">专业的产品设计</h6>
                         <p class="text-margin">源自一线互联网公司的产品团队为您服务</p>
                     </div>
                     <div class=" col-sm-4 col-md-4 text-center">
-                        <img src="../assets/imgs/advanced.png" class="img-circle center-block">
+                        <img :src="COSUrl+'advanced.png'" class="img-circle center-block">
                         <h6 class="text-center text-margin">领先的研发理念</h6>
                         <p class="text-margin">源自于腾讯的专业的应用研发体系</p>
                     </div>
                 </div>
                 <div class=" row  row-margin-top-15">
                     <div class=" col-sm-4 col-md-4 text-center">
-                        <img src="../assets/imgs/management.png" class="img-circle center-block">
+                        <img :src="COSUrl+'management.png'" class="img-circle center-block">
                         <h6 class="text-center text-margin">专业的项目管理</h6>
                         <p class="text-margin">确保每一个milestone的顺利执行</p>
                     </div>
                     <div class=" col-sm-4 col-md-4 text-center">
-                        <img src="../assets/imgs/team.png" class="img-circle center-block">
+                        <img :src="COSUrl+'team.png'" class="img-circle center-block">
                         <h6 class="text-center text-margin">专业的团队</h6>
                         <p class="text-margin">专业的人才为您提供最专业的服务</p>
                     </div>
                     <div class=" col-sm-4 col-md-4 text-center">
-                        <img src="../assets/imgs/aftersale.png" class="img-circle center-block">
+                        <img :src="COSUrl+'aftersale.png'" class="img-circle center-block">
                         <h6 class="text-center text-margin">专业的售后</h6>
                         <p class="text-margin">时刻响应您的需求</p>
                     </div>
@@ -144,7 +144,7 @@
                         <div class="boss-margin">
                             <div class="form-horizontal">
                                 <div class="">
-                                    <img src="../assets/imgs/noahboss.jpg" class="img-circle boss ">
+                                    <img :src="COSUrl+'noahboss.jpg'" class="img-circle boss ">
                                     <span class="">
                                         诺亚财富 谭文清
                                     </span>
@@ -155,7 +155,7 @@
                     </div>
                     <div class="col-sm-4 col-md-4">
                         <div class="boss-margin">
-                            <img src="../assets/imgs/daiyouboss.png" class="img-circle  boss">
+                            <img :src="COSUrl+'daiyouboss.png'" class="img-circle  boss">
                             <span>
                                 袋友电商 钱姗姗
                             </span>
@@ -164,7 +164,7 @@
                     </div>
                     <div class="col-sm-4 col-md-4">
                         <div class="boss-margin">
-                            <img src="../assets/imgs/hippoboss.png" class="img-circle  boss">
+                            <img :src="COSUrl+'hippoboss.png'" class="img-circle  boss">
                             <span>
                                 河马旅居指南创始人 余晓盼
                             </span>
@@ -202,7 +202,7 @@
         data() {
             return {
                 copyright: '',
-
+                COSUrl:'http://yuxisoft-1254099543.cossh.myqcloud.com/',
                 hippoboss: 'YuxiSoft是个很靠谱的技术团队，技术背景深厚，成员多来自腾讯和百度。开发前会很有耐心的跟你沟通，' +
                 '能站在客户角度去考虑问题，给你一些很成熟的建议，很受用。YuxiSoft 帮我们开发了微信小程序和 APP，使用下来很顺畅，' +
                 '速度也很快，有问题反馈给他们时，总能很及时的解决掉问题。'
@@ -299,7 +299,7 @@
     }
 
     .footer {
-        background: url("../assets/imgs/footer.png") no-repeat;
+        background: url("http://yuxisoft-1254099543.cossh.myqcloud.com/footer.png") no-repeat;
         width: 100%;
         /*height:100%;*/
         background-size: 100% 100%;
