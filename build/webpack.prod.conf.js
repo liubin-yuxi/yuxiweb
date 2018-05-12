@@ -13,14 +13,14 @@ const OptimizeCSSPlugin = require('optimize-css-assets-webpack-plugin')
 const env = config.build.env
 
 var apiHost = '';
-switch (process.env.ENV) {
-  case 'test':
-    apiHost = "'https://test-api.dingnuo.ai/'"
-    break;
-  default:
-    apiHost = "'https://api.dingnuo.ai/'"
-    break;
-}
+// switch (process.env.ENV) {
+//   case 'test':
+//     apiHost = "'https://test-api.dingnuo.ai/'"
+//     break;
+//   default:
+//     apiHost = "'https://api.dingnuo.ai/'"
+//     break;
+// }
 
 const webpackConfig = merge(baseWebpackConfig, {
   module: {
