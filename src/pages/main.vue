@@ -228,6 +228,10 @@
 <style lang="scss" scoped>
 
 
+    .img-responsive {
+        width: 100%;
+    }
+
     .boss-margin {
         margin-left: 10%;
         margin-right: 10%;
