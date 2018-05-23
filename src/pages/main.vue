@@ -2,8 +2,8 @@
     <div>
 
         <div class="banner">
-            <img :src="COSUrl+'banner.png'" class="img-responsive">
-            <img :src="COSUrl+'logo.png'" class="logo ">
+            <img :src="COSUrl+'banner.png'" class="img-responsive banner-img"/>
+            <img :src="COSUrl+'logo.png'" class="logo "/>
             <div class="instruction ">
                 <p class="title">
                     一家专门做SAAS系统定制化开发的公司
@@ -12,6 +12,7 @@
                 <span class="sub-title">源自一线互联网公司的产品和研发体系为您的创业想法注入强大的动力</span>
             </div>
         </div>
+
 
         <!--<div class="body-margin">-->
         <div class="container">
@@ -324,23 +325,26 @@
         max-height: 46px;
     }
 
+
+
     .instruction {
         position: absolute;
         left: 0;
-        top: 50%;
+        top: 40%;
         width: 100%;
         color: white;
 
     }
 
-    .instruction p {
-        font-size: 1.8rem;
-    }
+    /*.instruction p {*/
+        /*font-size: 1.8rem;*/
+    /*}*/
 
     .instruction .title {
         font-size: 44px;
         color: #FFFFFF;
         letter-spacing: 2.59px;
+        margin-bottom: 2rem;
     }
 
     .instruction .sub-title {
@@ -350,12 +354,27 @@
         line-height: 31px;
     }
 
-    @media (max-width: 767px) {
+    @media (max-width: 768px) {
         .instruction .title {
-            font-size: 1.2rem;
+            font-size: 2.4rem;
         }
         .instruction .sub-title {
             font-size: 1rem;
+        }
+        .banner-img {
+            height:320px;
+        }
+    }
+
+    @media (min-width:769px) and (max-width: 1366px) {
+        .instruction .title {
+            font-size: 4.2rem;
+        }
+        .instruction .sub-title {
+            font-size: 1.8rem;
+        }
+        .banner-img {
+            height:320px;
         }
     }
 
@@ -428,9 +447,9 @@
     }
 
     /*filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='bg-login.png',sizingMethod='scale');*/
-    /*html {*/
-    /*font-size: 18px;*/
-    /*}*/
+    html {
+    font-size: 62.5%;
+    }
 
     /*@media (min-width: 376px) and (max-width: 767px) {*/
     /*html {*/
