@@ -23,7 +23,7 @@
                         <p class="title">主营业务</p>
                     </div>
                     <div class="row">
-                        <div class=" col-xs-4 col-sm-4 col-md-4 col-lg-4 ">
+                        <div class=" col-xs-6 col-sm-6 col-md-4 col-lg-4 margin-bottom-30">
                             <img :src="COSUrl+'wx.png'" class="img-responsive">
                             <!--<img src="../assets/imgs/wx.png" class="img-responsive">-->
                             <div class="container-fluid shadow ">
@@ -32,14 +32,14 @@
                             </div>
 
                         </div>
-                        <div class="  col-xs-4 col-sm-4 col-md-4 col-lg-4 ">
+                        <div class="  col-xs-6 col-sm-6 col-md-4 col-lg-4 margin-bottom-30 ">
                             <img :src="COSUrl+'app.png'" class="img-responsive">
                             <div class="container-fluid shadow">
                                 <p class="text-margin content-title">APP</p>
                                 <p class="text-margin content">ios&android应用开发</p>
                             </div>
                         </div>
-                        <div class=" col-xs-4 col-sm-4 col-md-4 col-lg-4">
+                        <div class=" col-xs-6 col-sm-6 col-md-4 col-lg-4 margin-bottom-30">
                             <div>
                                 <img :src="COSUrl+'cloud.png'" class="img-responsive">
                                 <div class="container-fluid shadow">
@@ -48,54 +48,54 @@
                                 </div>
                             </div>
                         </div>
-                    </div>
-                </div>
+                        <!--</div>-->
+                        <!--</div>-->
 
-                <div class="row  row-margin-top-30">
-                    <div class=" col-xs-4 col-sm-4 col-md-4 col-lg-4 ">
-                        <img :src="COSUrl+'growthhacker.png'" class="img-responsive">
-                        <div class="container-fluid shadow">
-                            <p class="text-margin content-title">企业增长黑客业务咨询</p>
-                            <p class="text-margin content">企业增长黑客业务咨询</p>
+                        <!--<div class="row  row-margin-top-30">-->
+                        <div class=" col-xs-6 col-sm-6 col-md-4 col-lg-4 margin-bottom-30 ">
+                            <img :src="COSUrl+'growthhacker.png'" class="img-responsive">
+                            <div class="container-fluid shadow">
+                                <p class="text-margin content-title">企业增长黑客业务咨询</p>
+                                <p class="text-margin content">企业增长黑客业务咨询</p>
+                            </div>
                         </div>
-                    </div>
-                    <div class=" col-xs-4 col-sm-4 col-md-4 col-lg-4">
-                        <img :src="COSUrl+'saas.png'" class="img-responsive">
-                        <div class="container-fluid shadow">
-                            <p class="text-margin content-title">大型SAAS系统研发</p>
-                            <p class="text-margin content">完全创新的软件应用模式</p>
+                        <div class=" col-xs-6 col-sm-6 col-md-4 col-lg-4 margin-bottom-30">
+                            <img :src="COSUrl+'saas.png'" class="img-responsive">
+                            <div class="container-fluid shadow">
+                                <p class="text-margin content-title">大型SAAS系统研发</p>
+                                <p class="text-margin content">完全创新的软件应用模式</p>
+                            </div>
                         </div>
-                    </div>
-                    <div class=" col-xs-4 col-sm-4 col-md-4 col-lg-4">
-                        <img :src="COSUrl+'consultant.png'" class="img-responsive">
-                        <div class="container-fluid shadow">
-                            <p class="text-margin content-title">泛互联网业务咨询</p>
-                            <p class="text-margin content">泛互联网业务咨询</p>
+                        <div class=" col-xs-6 col-sm-6 col-md-4 col-lg-4 margin-bottom-30">
+                            <img :src="COSUrl+'consultant.png'" class="img-responsive">
+                            <div class="container-fluid shadow">
+                                <p class="text-margin content-title">泛互联网业务咨询</p>
+                                <p class="text-margin content">泛互联网业务咨询</p>
+                            </div>
                         </div>
                     </div>
                 </div>
-                <!--</div>-->
                 <!--案例展示-->
                 <div class="row row-margin-top-120 ">
                     <div class="container row-margin-bottom">
                         <p class="title">案例展示</p>
                     </div>
                     <div class="row">
-                        <div class=" col-xs-4 col-sm-4 col-md-4 col-lg-4 ">
+                        <div class=" col-xs-6 col-sm-6 col-md-4 col-lg-4 margin-bottom-30 ">
                             <img :src="COSUrl+'hippo.png'" class="img-responsive">
                             <div class="container-fluid shadow">
                                 <p class="text-margin content-title">河马旅居指南</p>
                                 <p class="text-margin content">旅行，换个城市生活！</p>
                             </div>
                         </div>
-                        <div class=" col-xs-4 col-sm-4 col-md-4 col-lg-4">
+                        <div class=" col-xs-6 col-sm-6 col-md-4 col-lg-4 margin-bottom-30">
                             <img :src="COSUrl+'noah.png'" class="img-responsive">
                             <div class="container-fluid shadow">
                                 <p class="text-margin content-title">诺亚财富</p>
                                 <p class="text-margin content">您的私人财富体验专家</p>
                             </div>
                         </div>
-                        <div class=" col-xs-4 col-sm-4 col-md-4 col-lg-4">
+                        <div class=" col-xs-6 col-sm-6 col-md-4 col-lg-4 margin-bottom-30">
                             <img :src="COSUrl+'PGAlumniAssociation.png'" class="img-responsive">
                             <div class="container-fluid shadow">
                                 <p class="text-margin content-title">保洁校友会</p>
@@ -111,34 +111,34 @@
                     <div class="container row-margin-bottom">
                         <p class="title">为什么选择我们</p>
                     </div>
-                    <div class=" col-xs-4 col-sm-4 col-md-4 col-lg-4 text-center">
+                    <div class=" col-xs-6 col-sm-6 col-md-4 col-lg-4 margin-bottom-30 text-center">
                         <img :src="COSUrl+'reliable.png'" class="img-circle center-block">
                         <p class="text-center text-margin content-title">稳定可靠</p>
                         <p class="text-margin content">为客户提供99.99%可靠的在线应用服务</p>
                     </div>
-                    <div class=" col-xs-4 col-sm-4 col-md-4 col-lg-4 text-center">
+                    <div class=" col-xs-6 col-sm-6 col-md-4 col-lg-4 margin-bottom-30 text-center">
                         <img :src="COSUrl+'professional.png'" class="img-circle center-block">
                         <p class="text-center text-margin content-title">专业的产品设计</p>
                         <p class="text-margin content">源自一线互联网公司的产品团队为您服务</p>
                     </div>
-                    <div class=" col-xs-4 col-sm-4 col-md-4 col-lg-4 text-center">
+                    <div class=" col-xs-6 col-sm-6 col-md-4 col-lg-4 margin-bottom-30 text-center">
                         <img :src="COSUrl+'advanced.png'" class="img-circle center-block">
                         <p class="text-center text-margin content-title">领先的研发理念</p>
                         <p class="text-margin content">源自于腾讯的专业的应用研发体系</p>
                     </div>
-                </div>
-                <div class=" row ">
-                    <div class=" col-xs-4 col-sm-4 col-md-4 col-lg-4 text-center">
+                    <!--</div>-->
+                    <!--<div class=" row ">-->
+                    <div class=" col-xs-6 col-sm-6 col-md-4 col-lg-4 margin-bottom-30 text-center">
                         <img :src="COSUrl+'management.png'" class="img-circle center-block">
                         <p class="text-center text-margin content-title">专业的项目管理</p>
                         <p class="text-margin content">确保每一个milestone的顺利执行</p>
                     </div>
-                    <div class=" col-xs-4 col-sm-4 col-md-4 col-lg-4 text-center">
+                    <div class=" col-xs-6 col-sm-6 col-md-4 col-lg-4 margin-bottom-30 text-center">
                         <img :src="COSUrl+'team.png'" class="img-circle center-block">
                         <p class="text-center text-margin content-title">专业的团队</p>
                         <p class="text-margin content">专业的人才为您提供最专业的服务</p>
                     </div>
-                    <div class=" col-xs-4 col-sm-4 col-md-4 col-lg-4 text-center">
+                    <div class=" col-xs-6 col-sm-6 col-md-4 col-lg-4 margin-bottom-30 text-center">
                         <img :src="COSUrl+'aftersale.png'" class="img-circle center-block">
                         <p class="text-center text-margin content-title">专业的售后</p>
                         <p class="text-margin content">时刻响应您的需求</p>
@@ -152,28 +152,28 @@
         <div class="footer">
             <div class="container">
                 <div class="row row-margin-top-100 ">
-                    <div class="col-xs-4 col-sm-4 col-md-4 col-lg-4 ">
+                    <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4 margin-bottom-30 ">
                         <div class="boss-margin">
                             <div class="row ">
                                 <!--<div class="form-horizontal">-->
-                                    <!--<div class="form-group">-->
-                                        <div class="col-xs-4 col-sm-4 col-md-3 col-lg-3">
-                                            <img :src="COSUrl+'noahboss.jpg'" class="img-circle boss "/>
-                                        </div>
-                                        <div class="col-xs-9 col-sm-9 col-md-9 col-lg-9 ">
-                                            <p class="boss-name ">
-                                                诺亚财富 谭文清
-                                            </p>
-                                        </div>
-                                        <!--<div class="col-xs-4 col-sm-4 col-md-2 col-lg-2">-->
-                                            <!--<img  :src="COSUrl+'noahboss.jpg'" class="img-circle boss "/>-->
-                                        <!--</div>-->
-                                        <!--<div class="col-xs-9 col-sm-9 col-md-9 col-lg-9">-->
-                                            <!--<p class="boss-name  ">-->
-                                            <!--诺亚财富 谭文清-->
-                                            <!--</p>-->
-                                        <!--</div>-->
-                                    <!--</div>-->
+                                <!--<div class="form-group">-->
+                                <div class="col-xs-4 col-sm-4 col-md-3 col-lg-3">
+                                    <img :src="COSUrl+'noahboss.jpg'" class="img-circle boss "/>
+                                </div>
+                                <div class="col-xs-9 col-sm-9 col-md-9 col-lg-9 ">
+                                    <p class="boss-name ">
+                                        诺亚财富 谭文清
+                                    </p>
+                                </div>
+                                <!--<div class="col-xs-4 col-sm-4 col-md-2 col-lg-2">-->
+                                <!--<img  :src="COSUrl+'noahboss.jpg'" class="img-circle boss "/>-->
+                                <!--</div>-->
+                                <!--<div class="col-xs-9 col-sm-9 col-md-9 col-lg-9">-->
+                                <!--<p class="boss-name  ">-->
+                                <!--诺亚财富 谭文清-->
+                                <!--</p>-->
+                                <!--</div>-->
+                                <!--</div>-->
                                 <!--</div>-->
                             </div>
                             <div class="star-div">
@@ -186,7 +186,7 @@
                             <p class="boss-content">感谢语汐科技高质量的设计和执行，帮助我们打造一款优秀产品。</p>
                         </div>
                     </div>
-                    <div class="col-xs-4 col-sm-4 col-md-4 col-lg-4">
+                    <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4 margin-bottom-30">
                         <div class="boss-margin">
                             <div class="row ">
                                 <div class="col-xs-4 col-sm-4 col-md-3 col-lg-3">
@@ -208,7 +208,7 @@
                             <p class="boss-content">以客户为中心，赋能客户，共同为用户打造一款令人难忘的产品。如果我的朋友要做产品，我还是会推荐语汐。</p>
                         </div>
                     </div>
-                    <div class="col-xs-4 col-sm-4 col-md-4 col-lg-4">
+                    <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4 margin-bottom-30">
                         <div class="boss-margin">
                             <div class="row ">
                                 <div class="col-xs-4 col-sm-4 col-md-3 col-lg-3">
@@ -288,6 +288,10 @@
 
     }
 
+    .margin-bottom-30 {
+        margin-bottom: 30px;
+    }
+
     .row-margin-top-120 {
         margin-top: 120px;
     }
@@ -325,19 +329,17 @@
         max-height: 46px;
     }
 
-
-
     .instruction {
         position: absolute;
         left: 0;
         top: 40%;
         width: 100%;
         color: white;
-
+        /*padding:0 100px 0*/
     }
 
     /*.instruction p {*/
-        /*font-size: 1.8rem;*/
+    /*font-size: 1.8rem;*/
     /*}*/
 
     .instruction .title {
@@ -354,6 +356,14 @@
         line-height: 31px;
     }
 
+    .title {
+        font-size: 28px;
+        color: #404040;
+        letter-spacing: 0;
+        /*text-align: center;*/
+    }
+
+
     @media (max-width: 768px) {
         .instruction .title {
             font-size: 2.4rem;
@@ -362,11 +372,24 @@
             font-size: 1rem;
         }
         .banner-img {
-            height:320px;
+            height: 320px;
         }
+        .container {
+            width: 90%;
+        }
+
+        .title{
+            text-align: center;
+        }
+
     }
 
-    @media (min-width:769px) and (max-width: 1366px) {
+    /*@media (max-width: @screen-xs-max) { */
+    /**/
+    /**/
+    /*}*/
+
+    @media (min-width: 769px) and (max-width: 1366px) {
         .instruction .title {
             font-size: 4.2rem;
         }
@@ -374,7 +397,7 @@
             font-size: 1.8rem;
         }
         .banner-img {
-            height:320px;
+            height: 320px;
         }
     }
 
@@ -448,7 +471,7 @@
 
     /*filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='bg-login.png',sizingMethod='scale');*/
     html {
-    font-size: 62.5%;
+        font-size: 62.5%;
     }
 
     /*@media (min-width: 376px) and (max-width: 767px) {*/
@@ -462,11 +485,7 @@
     /*!*font-size: 1.6rem;*!*/
     /*}*/
 
-    .title {
-        font-size: 28px;
-        color: #404040;
-        letter-spacing: 0;
-    }
+
 
     .content-title {
         font-size: 16px;
@@ -501,8 +520,8 @@
         margin: 20px 0 16px 0
     }
 
-    .star-div span{
-        color:#FFEBAC;
+    .star-div span {
+        color: #FFEBAC;
     }
 
 </style>
