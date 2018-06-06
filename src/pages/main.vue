@@ -181,7 +181,7 @@
                                 <span class="glyphicon glyphicon-star"></span>
                                 <span class="glyphicon glyphicon-star"></span>
                                 <span class="glyphicon glyphicon-star"></span>
-                                <span class="glyphicon glyphicon-star-empty"></span>
+                                <span class="glyphicon glyphicon-star"></span>
                             </div>
                             <p class="boss-content">感谢语汐科技高质量的设计和执行，帮助我们打造一款优秀产品。</p>
                         </div>
