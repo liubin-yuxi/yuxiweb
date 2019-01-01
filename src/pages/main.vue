@@ -245,6 +245,7 @@
         <div class="">
             <div class="text-center row-margin-top-30 row-margin-bottom">
                 <p class="">{{copyright}}</p>
+                <p><a href="http://www.miibeian.gov.cn">苏ICP备17066939号-1</a></p>
             </div>
         </div>
     </div>
