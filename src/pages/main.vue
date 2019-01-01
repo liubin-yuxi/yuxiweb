@@ -256,7 +256,7 @@
         mounted() {
             let start = 2017
             let end = new Date().getFullYear();
-            let cp = `Copyright © ${start} - ${end} 语汐网络科技  yuxisoft.cn All Rights Reserved. `
+            let cp = `Copyright © ${start} - ${end} 昆山语汐网络科技有限公司  yuxisoft.cn All Rights Reserved. `
             this.copyright = cp;
         },
         data() {
