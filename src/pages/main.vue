@@ -262,7 +262,7 @@
         data() {
             return {
                 copyright: '',
-                COSUrl: 'http://yuxisoft-1254099543.cossh.myqcloud.com/',
+                COSUrl: 'https://yuxisoft-1254099543.cossh.myqcloud.com/',
 //                COSUrl: '../assets/imgs/',
 
                 hippoboss: 'YuxiSoft是个很靠谱的技术团队，技术背景深厚，成员多来自腾讯和百度。开发前会很有耐心的跟你沟通，' +
