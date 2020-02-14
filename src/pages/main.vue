@@ -244,6 +244,7 @@
         <!--copyright-->
         <div class="">
             <div class="text-center row-margin-top-30 row-margin-bottom">
+                <a href="https://m.kuaidi100.com" target="_blank">快递查询</a >
                 <p class="">{{copyright}}</p>
                 <p><a href="http://beian.miit.gov.cn">苏ICP备17066939号-1</a></p>
             </div>
